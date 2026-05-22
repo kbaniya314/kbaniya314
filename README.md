@@ -4,7 +4,7 @@
 
 ## About Me
 
-I am a Physics and Mathematics student, researcher, and aspiring astroparticle physicist currently working at the intersection of:
+I hail from the heavenly land on Earth, Nepal, and am currently an international student/researcher in USA, focusing on Computational Astrophysics. I am pusuing a double major in Mathematics and Computer Science with a minor in Physics at Caldwell University in NJ. I aspire to become a computational astroparticle physicist, working at the intersection of:
 
 - Machine Learning
 - Scientific Computing
@@ -12,7 +12,7 @@ I am a Physics and Mathematics student, researcher, and aspiring astroparticle p
 - Systems Optimization
 - Data-driven Research
 
-My work focuses on developing computational systems and scientific models that solve real-world and research-scale problems — ranging from exoplanet habitability prediction and Gaia DR3 astrometric analysis to ML systems engineering and government decision intelligence platforms.
+Welcome to this journey!
 
 ---
 
