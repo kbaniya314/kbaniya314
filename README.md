@@ -1,6 +1,6 @@
 # 🏔️ Kishor Baniya
 
-![Mount Everest](https://drive.google.com/file/d/1toO1Lcsf0QT9Cp6FGtZ_MEO4uNnPftcQ/view?usp=sharing)
+![Mount Everest](sagarmatha.jpeg)
 
 ## About Me
 
