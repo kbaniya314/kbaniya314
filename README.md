@@ -18,17 +18,14 @@ My work focuses on developing computational systems and scientific models that s
 
 ## Current Research & Projects
 
-### 🌌 Exoplanet Habitability Modeling
-Developing machine learning systems to predict planetary habitability using NASA Exoplanet Archive and Gaia DR3 datasets.
+### 🏛  MIT Summer Research Program
+Working with Dr. Richard Teague in the Planet Formation Laboratory at EAPS, MIT as summer research intern. Manipulating exoALMA datasets to study gravitational instability and modeling for formation of giant exoplanets in early stages.
 
 ### 🛰️ Astrometric Detection Research
 Researching the future precision limits of detecting Earth-like exoplanets through astrometry using Gaia-derived stellar properties.
 
 ### ⚙️ ML Systems & Performance Engineering
 Exploring hardware-aware machine learning systems, optimization techniques, and efficient computational workflows.
-
-### 🏛️ Divya_Upadesh
-Building an ML-powered GovTech platform for analyzing and interpreting government decisions using constitutional reasoning and public sentiment.
 
 ---
 
@@ -37,10 +34,6 @@ Building an ML-powered GovTech platform for analyzing and interpreting governmen
 - Python
 - Machine Learning
 - Data Analysis
-- FastAPI
-- React + TypeScript
-- Scientific Visualization
-- Linux & Git
 - Astrophysical Data Processing
 
 ---
