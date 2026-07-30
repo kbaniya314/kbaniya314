@@ -18,14 +18,11 @@ Welcome to this journey!
 
 ## Current Research & Projects
 
-### 🏛  MIT Summer Research Program
-Working with Dr. Richard Teague in the Planet Formation Laboratory at EAPS, MIT as summer research intern. Manipulating exoALMA datasets to study gravitational instability and modeling for formation of giant exoplanets in early stages.
+### 🏛 Research Intern, [Planet Formation Lab](https://github.com/PlanetFormationLab)
+Working with Dr. Richard Teague (https://github.com/richteague). Developing computational methods to characterize molecular emission and excitation conditions in protoplanetary disks.
 
 ### 🛰️ Astrometric Detection Research
 Researching the future precision limits of detecting Earth-like exoplanets through astrometry using Gaia-derived stellar properties.
-
-### ⚙️ ML Systems & Performance Engineering
-Exploring hardware-aware machine learning systems, optimization techniques, and efficient computational workflows.
 
 ---
 
